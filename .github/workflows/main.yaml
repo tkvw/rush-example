@@ -14,4 +14,4 @@ jobs:
     # Check if change files are created 
     - run: node common/scripts/install-run-rush.js change -v
     - run: node common/scripts/install-run-rush.js install --bypass-policy
-    - run: node common/scripts/install-run-rush.js rebuild --bypass-policy --verbose
+    - run: node common/scripts/install-run-rush.js rebuild --verbose
