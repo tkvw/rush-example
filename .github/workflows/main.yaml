@@ -7,5 +7,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - uses: actions/setup-node@v1
-    - run: npm install
-    - run: npm test
+    # Check if change files are created 
+    - run: node common/scripts/install-run-rush.js change -v
+    - run: node common/scripts/install-run-rush.js install
+    - run: node common/scripts/install-run-rush.js rebuild --verbose
