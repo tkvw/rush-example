@@ -1,0 +1,17 @@
+{
+  "name": "my-controls",
+  "entries": [
+    {
+      "version": "1.0.1",
+      "tag": "my-controls_v1.0.1",
+      "date": "Thu, 16 Dec 2021 19:42:28 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "Message is changed"
+          }
+        ]
+      }
+    }
+  ]
+}
