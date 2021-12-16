@@ -449,6 +449,7 @@
     {
       "packageName": "my-controls",
       "projectFolder": "libraries/my-controls",
+      "shouldPublish": true,
       "reviewCategory": "production"
     },
 
