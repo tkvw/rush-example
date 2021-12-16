@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "packageName": "my-controls",
+      "comment": "Message is changed",
+      "type": "patch"
+    }
+  ],
+  "packageName": "my-controls",
+  "email": "dennie@tkvw.nl"
+}
